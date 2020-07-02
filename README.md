@@ -4,7 +4,7 @@ I've got an [Ender 3](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%
 
 ## Profiles
 
-### [PETG Northern Pike.curaprofile](https://github.com/TheKingElessar/3D-Printer-Profiles/blob/master/PETG%20Northern%20Pike.curaprofile)
+### [PETG Northern Pike.curaprofile](https://github.com/TheKingElessar/3D-Printer-Profiles/blob/master/PETGThinwallCura4.4.curaprofile)
 
 I'm working on printing the [36" Northern Pike RC Airplane](https://www.thingiverse.com/thing:3040294) for a friend. I'm using [eSun PETG filament](https://www.amazon.com/eSUN-Filament-Printer-Diameter-Semi-transparent/dp/B010TWUQJ8/), so this profile is especially for PETG parts. As per the instructions for printing the plane, the profile has several notable characteristics, such as a 0% infill.
 
