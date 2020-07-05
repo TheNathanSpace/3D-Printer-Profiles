@@ -6,11 +6,11 @@ I've got an [Ender 3](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%
 
 ### [PETGThinwallCura4.4.curaprofile](https://github.com/TheKingElessar/3D-Printer-Profiles/blob/master/PETGThinwallCura4.4.curaprofile)
 
-I'm working on printing the [36" Northern Pike RC Airplane](https://www.thingiverse.com/thing:3040294) for a friend. I'm using [eSun PETG filament](https://www.amazon.com/eSUN-Filament-Printer-Diameter-Semi-transparent/dp/B010TWUQJ8/), so this profile is especially for PETG parts. This profile is **exactly the same** as the profile provided by the creator [here](https://www.thingiverse.com/download:7558638), but updated for modern Cura versions. You will probably need to fine-tune retraction settings for your printer. 
+This profile is **exactly the same** as the [profile](https://www.thingiverse.com/download:7558638) provided by the creator of the [36" Northern Pike RC Airplane](https://www.thingiverse.com/thing:3040294), but updated for modern Cura versions. You will probably need to fine-tune retraction settings for your printer. 
 
 ### [36'' Northern Pike RC Airplane.curaprofile](https://github.com/TheKingElessar/3D-Printer-Profiles/blob/master/36''%20Northern%20Pike%20RC%20Airplane.curaprofile)
 
-This is my version of the above PETG thin-wall profile. It mostly has modifications with the retraction settings.
+This is my version of the above PETG thin-wall profile. I'm working on printing the [36" Northern Pike RC Airplane](https://www.thingiverse.com/thing:3040294) for a friend. I'm using [eSun PETG filament](https://www.amazon.com/eSUN-Filament-Printer-Diameter-Semi-transparent/dp/B010TWUQJ8/), so this profile is especially for PETG parts.  It mostly has modifications with the retraction settings.
 
 ## Misc.
 Check out [this huge list](https://docs.google.com/document/d/1gfVFPHdT8-bG0KmCqh5enULdWXQxZ2HHscNTdA0m4vc/edit) of Ender 3 parts, upgrades, and tips I've compiled! It should be immensly useful to anyone who's just starting with an Ender 3 printer.
